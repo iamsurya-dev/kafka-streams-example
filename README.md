@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 This Kafka Streams application serves as an example to write basic kafka-streams code in Dropwizard.
 
 # Running in Local
